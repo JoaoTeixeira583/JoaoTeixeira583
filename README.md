@@ -1,11 +1,11 @@
 <h1 align="center">João Teixeira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3FB950&center=true&vCenter=true&width=550&lines=%24+echo+%22Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o%22;Desenvolvedor+Backend+%7C+Java+%26+Spring+Boot;%24+java+-jar+aprendizado.jar" alt="Terminal animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3FB950&center=true&vCenter=true&width=600&lines=System.out.println%28%22Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o%22%29%3B;Desenvolvedor+Backend+%7C+Java+%26+Spring+Boot;%24+java+-jar+aprendizado.jar" alt="Terminal animado" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,maven,idea,postman&perline=8" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github&perline=5" alt="Tecnologias" />
 </p>
 
 ---
