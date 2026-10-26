@@ -1,7 +1,7 @@
 <h1 align="center">João Teixeira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3FB950&center=true&vCenter=true&width=500&lines=%24+whoami;Backend+Developer+%7C+Java+%26+Spring+Boot;%24+java+-jar+aprendizado.jar" alt="Terminal animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=3FB950&center=true&vCenter=true&width=550&lines=%24+echo+%22Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o%22;Desenvolvedor+Backend+%7C+Java+%26+Spring+Boot;%24+java+-jar+aprendizado.jar" alt="Terminal animado" />
 </p>
 
 <p align="center">
@@ -34,22 +34,34 @@ public class JoaoTeixeira {
 
 ### 🚀 Projetos
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [📖 Sistema de Biblioteca](https://github.com/JoaoTeixeira583/Sistema-de-Biblioteca) | API REST de autores e livros, com paginação, filtros, validação e tratamento de erros | `Java` `Spring Boot` `MySQL` |
-| [📦 API de Produtos](https://github.com/JoaoTeixeira583/api-produtos) | API REST para praticar CRUD e boas práticas | `Java` `Spring Boot` |
+```text
+📦 com.joaoteixeira.projetos
+ ┃
+ ┣ 📂 biblioteca
+ ┃  ┣ ☕ SistemaBiblioteca.java
+ ┃  ┃    └─ API REST de autores e livros
+ ┃  ┃    └─ paginação · filtros · validação · tratamento de erros
+ ┃  ┗ 🧰 Java · Spring Boot · MySQL
+ ┃
+ ┗ 📂 produtos
+    ┣ ☕ ApiProdutos.java
+    ┃    └─ API REST para praticar CRUD e boas práticas
+    ┗ 🧰 Java · Spring Boot
+```
+
+🔗 **Abrir projetos:** [📖 Sistema de Biblioteca](https://github.com/JoaoTeixeira583/Sistema-de-Biblioteca) · [📦 API de Produtos](https://github.com/JoaoTeixeira583/api-produtos)
 
 ---
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoTeixeira583&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeixeira583&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JoaoTeixeira583&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeixeira583&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoaoTeixeira583&theme=github-dark-blue&hide_border=true" alt="Sequência de commits" />
+  <img src="https://streak-stats.demolab.com?user=JoaoTeixeira583&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de commits" />
 </p>
 
 ---
